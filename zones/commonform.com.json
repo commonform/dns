@@ -1,0 +1,53 @@
+{
+  "name": "commonform.org",
+  "records": [
+    {
+      "name": "",
+      "type": "A",
+      "content": "104.131.157.47",
+      "ttl": 3600
+    },
+    {
+      "name": "api",
+      "type": "A",
+      "content": "104.131.157.47",
+      "ttl": 3600
+    },
+    {
+      "name": "about",
+      "type": "ALIAS",
+      "content": "commonform.github.io",
+      "ttl": 3600
+    },
+    {
+      "name": "about",
+      "type": "TXT",
+      "content": "ALIAS for commonform.github.io",
+      "ttl": 3600
+    },
+    {
+      "name": "",
+      "type": "NS",
+      "content": "ns1.dnsimple.com",
+      "ttl": 3600
+    },
+    {
+      "name": "",
+      "type": "NS",
+      "content": "ns2.dnsimple.com",
+      "ttl": 3600
+    },
+    {
+      "name": "",
+      "type": "NS",
+      "content": "ns3.dnsimple.com",
+      "ttl": 3600
+    },
+    {
+      "name": "",
+      "type": "NS",
+      "content": "ns4.dnsimple.com",
+      "ttl": 3600
+    }
+  ]
+}
