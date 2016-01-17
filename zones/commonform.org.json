@@ -14,6 +14,12 @@
       "ttl": 3600
     },
     {
+      "name": "bookmarks",
+      "type": "A",
+      "content": "104.131.157.47",
+      "ttl": 3600
+    },
+    {
       "name": "about",
       "type": "ALIAS",
       "content": "commonform.github.io",
