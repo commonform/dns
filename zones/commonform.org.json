@@ -20,36 +20,6 @@
       "ttl": 3600
     },
     {
-      "name": "edit",
-      "type": "A",
-      "content": "104.131.157.47",
-      "ttl": 3600
-    },
-    {
-      "name": "bookmarks",
-      "type": "A",
-      "content": "104.131.157.47",
-      "ttl": 3600
-    },
-    {
-      "name": "permissions",
-      "type": "A",
-      "content": "104.131.157.47",
-      "ttl": 3600
-    },
-    {
-      "name": "about",
-      "type": "ALIAS",
-      "content": "commonform.github.io",
-      "ttl": 3600
-    },
-    {
-      "name": "about",
-      "type": "TXT",
-      "content": "ALIAS for commonform.github.io",
-      "ttl": 3600
-    },
-    {
       "name": "",
       "type": "NS",
       "content": "ns1.dnsimple.com",
