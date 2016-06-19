@@ -3,8 +3,14 @@
   "records": [
     {
       "name": "",
-      "type": "A",
-      "content": "104.131.157.47",
+      "type": "CNAME",
+      "content": "d1dltob0puks5h.cloudfront.net",
+      "ttl": 3600
+    },
+    {
+      "name": "www",
+      "type": "CNAME",
+      "content": "d1dltob0puks5h.cloudfront.net",
       "ttl": 3600
     },
     {
